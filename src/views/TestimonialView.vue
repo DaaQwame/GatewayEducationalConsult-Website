@@ -1,0 +1,123 @@
+<template>
+ <div class="uss">
+    <div class="ucc">
+    <h1 class="ttc">TESTIMONIALS</h1>
+    </div>
+  </div>
+<div class="testimonials">
+    <div class="title">
+      <h2>TESTIMONIALS</h2>
+        <p class="gut">What our students says about us</p>
+    </div>
+    <div class="ram">
+        <div class="code">
+         <p class="papa"><i class="fas fa-quote-left quote"></i> Educational Consult has really helped me in my academic journey.This
+            organization helped me through counselling me to get a school i want to
+            study and also they helped me get acomodation and work as well,in fact
+            they really did a marvelous job for me as a student and i really
+            thank them for their support,and i want anyone who have passion
+            of travelling abroad to study to approach gateway educational
+            consult team to help his dream of studying abroad come into reality</p>
+        <h4>John Smith</h4>
+        </div>
+        <div class="code">
+        <p class="papa"><i class="fas fa-quote-left quote"></i>I gained admision to study in university of munich in germany by the help of
+            gateway educational consult.I pursued computer science and now i'm working
+            as a web developer on my own.This organization tried all their possible
+            best to help me get into germany to study in a school of my choice
+            i'm now doing big projects to renowned institutions,so gateway educational
+            consult is the best way to help you succeed in travelling to other country
+            to study </p>
+        <h4>Patrict Walker</h4>
+        </div>
+        <div class="code">
+        <p class="papa"><i class="fas fa-quote-left quote"></i>I'm very happy i had an early encounter with gateway educational consult
+            to help me get scholarship to study abroad.GEC team really helped
+            me to get everything i need to get to study at the country i want
+            to study,they guided very well to acquire everything necessary
+            to take me there.I recommend gateway educational consult for
+            each and everyone who want to continue his or her education
+            abrod</p>
+        <h4>James Wilson</h4>
+        </div>
+    </div>
+</div>
+
+<!----------footer------->
+ <footer>
+     <div class="container">
+       <ul class="flex">
+         <li><router-link class="you" to="/">Home</router-link></li>
+         <li><router-link class="you" to="/About">About</router-link></li>
+         <li><router-link class="you" to="/Service">Service</router-link></li>
+         <li><router-link class="you" to="/Testimonial">Testimonial</router-link></li>
+         <li><router-link class="you" to="/Contact">Contact</router-link></li>
+       </ul>
+       <ul class="flex">
+         <router-link class="you" to="/"><li><i class="fab fa-facebook"></i></li></router-link>
+        <router-link class="you" to="/"><li><i class="fab fa-twitter"></i></li></router-link>
+        <router-link class="you" to="/"><li><i class="fab fa-instagram"></i></li></router-link>
+       <router-link class="you" to="/"><li><i class="fab fa-youtube"></i></li></router-link>
+       </ul>
+       <p class="run"><i class="fa-regular fa-copyright"></i> 2022 Gateway Educational Consult</p>
+     </div>
+     </footer>
+</template>
+ <script>
+
+ </script>
+
+<style>
+.gut{
+  font-size: 15px;
+}
+.papa{
+  color: #fff;
+}
+.title h2{
+  color: #111;
+  font-size: 25px;
+  padding-top: 100px;
+}
+.ram{
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+i.quote{
+  color: orange;
+  font-size: 25px;
+}
+.code h4{
+  color: orange;
+}
+.code{
+  flex-basis: 31%;
+  background: black;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  padding: 20px 12px;
+  box-sizing: border-box;
+}
+
+.ucc{
+  min-height: 40vh;
+  width: 100%;
+  margin-top: -8px;
+  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url("../assets/testimony.jpg");
+  background-size: cover;
+  background-position: center;
+  position: rel6ative;
+}
+.ttc{
+  color: #fff;
+  font-size: 30px;
+  padding-top: 160px;
+  font-weight: bolder;
+}
+@media only screen and (max-width: 700px) {
+  .ram{
+    flex-direction: column;
+  }
+}
+ </style>

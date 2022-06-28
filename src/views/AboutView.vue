@@ -1,6 +1,6 @@
 <template>
 <header class="lad">
-    <h1 class="load">ABOUT US</h1>
+    <h1 class="load">ABOUT GEC</h1>
 </header>
 
 <!---------about us------>

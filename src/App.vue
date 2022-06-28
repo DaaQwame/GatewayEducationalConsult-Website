@@ -5,6 +5,10 @@
   <span></span>
   <span></span>
 </a>
+<div class="yolo">
+  <img class="mix" src="./assets/logo.jpeg">
+  <h3 class="malt">YOUR GATEWAY TO INTERNATIONAL <br>ACADEMIC SUCCESS</h3>
+</div>
 </div>
 <div class="hold">
 <div id="collapse" :class="{ 'is-active': isActive }" class="navbar-menu is-paddingless">
@@ -38,9 +42,36 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
+.malt{
+  transform: translate(2%,-50px);
+  font-weight: bolder;
+  font-size: 18px;
+  color:rgb(58, 58, 148) ;
+  margin-bottom: -3%;
+}
+.mix{
+  width: 16%;
+  margin-right: 25%;
+}
 @media only screen and (max-width: 700px) {
   nav{
   background-color: rgb(58, 58, 148);
+}
+.yolo{
+  background-color: #42b983;
+}
+ .pee{
+    background-color: orange;
+  }
+.malt{
+  transform: translate(-1%,-8px);
+  font-weight: bolder;
+  font-size: 18px;
+  margin-bottom: -1%;
+}
+.mix{
+  width: 50%;
+  margin-left: 80px;
 }
 }
 nav {

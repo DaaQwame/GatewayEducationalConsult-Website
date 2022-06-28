@@ -1,6 +1,7 @@
 <template>
 <header class="head">
-  <div class="sod"></div>
+  <div class="sod">
+  </div>
 </header>
 <section class="content">
   <h3>WHAT WE DO</h3>
@@ -28,9 +29,7 @@
 
 </section>
 
-
 <!-------------countries---------->
-
 
 <section class="countries">
   <h2 class="like">COUNTRIES YOU CAN STUDY</h2>

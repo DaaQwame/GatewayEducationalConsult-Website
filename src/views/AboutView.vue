@@ -93,6 +93,7 @@
 }
 .agent{
     color: brown;
+    font-family: 'Mukta', sans-serif;
 }
 .some{
     color: black;

@@ -11,7 +11,7 @@
     </div>
     <div class="ram">
         <div class="code">
-         <p class="papa"><i class="fas fa-quote-left quote"></i> Educational Consult has really helped me in my academic journey.This
+         <p class="papa"><i class="fas fa-quote-left quote"></i>Gateway Educational Consult has really helped me in my academic journey.This
             organization helped me through counselling me to get a school i want to
             study and also they helped me get acomodation and work as well,in fact
             they really did a marvelous job for me as a student and i really
@@ -42,7 +42,12 @@
         </div>
     </div>
 </div>
-
+<div class="with">
+    <div class="room">
+      <h2 class="pen">Email us to get our best counselling to study abroad</h2>
+      <p>gatewayeducationalconsult@gmail.com</p>
+    </div>
+  </div>
 <!----------footer------->
  <footer>
      <div class="container">
@@ -115,7 +120,36 @@ i.quote{
   padding-top: 160px;
   font-weight: bolder;
 }
+.pen{
+  margin-top: -22px;
+  color: #fff;
+  padding-top: 95px;
+}
+
+.room p{
+  color: orange;
+  font-size: 20px;
+}
+.room{
+  height: 50vh;
+  background: rgba(0,0,0,0.7);
+  padding-top: 5%;
+}
+.with{
+  min-height: 50vh;
+  width: 100%;
+  margin-top: -8px;
+  margin-bottom: 0%;
+  background-image: url("../assets/tt.jpg");
+  background-size: cover;
+  background-position: center;
+  margin-top: 70px;
+  position: relative
+}
 @media only screen and (max-width: 700px) {
+  .room{
+    padding-top: 16%;
+  }
   .ram{
     flex-direction: column;
   }

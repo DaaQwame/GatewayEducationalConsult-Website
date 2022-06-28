@@ -78,6 +78,7 @@
 <style>
 .contact-us{
     width: 70%;
+    padding-top: 100px;
     margin: auto;
 }
 iframe{

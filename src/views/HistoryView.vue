@@ -10,21 +10,21 @@
     <h4>Gateway Educational Consult has gained an international recognition for it's best work towards students who want to study in abroad</h4>
      <h4>This institution has come to laid off the burden of every students who are willing to study across different country through us,we always make</h4>
      <br>
-    <h4>sure our students are safe in every school they choose to study.This institution was established in 1st january,2021 by highly honoured and</h4>
-   <h4> respected man called Mr Steve Gat.This man has worked so hard in many institution in ghana and across the globe,and this man realized</h4>
+    <h4>sure our students are safe in every school they choose to study.This institution was established in 1st january,2020 by highly honoured and</h4>
+   <h4> respected man called Mr Steve Gat.This man has worked so hard in many institution across the globe,and realized</h4>
    <br>
-    <h4>in his journey of studies that,students always find it cumbersome when they want to study in different country.So this man brought this idea</h4>
+    <h4>in his journey of studies that,students always find it cumbersome when they want to study in different country.He brought the idea</h4>
    <h4>of getting a platform to make his dream come through,and also to make it easy and simple for everyone who wish to continue his academic</h4>
    <br>
-    <h4>journey in a different country.So he started and getting to few years now,he has been getting a very amazing feedback from the students</h4>
-    <h4>in which they have passed through this institution requirements.It's has been so surprising that even gateway education consult team have</h4>
+    <h4>journey in a different country.GEC started not too long ago and has already won students heart with their feedback.</h4>
+    <h4>It's has been so surprising that even gateway educational consult team have been</h4>
     <br>
     <h4>helping their students to get a better and secure job while they are in school.we urge each and everyone who has yearn this for so long</h4>
-    <h4>of focusing his academic journey in a different environment or country to apply any school of your choose through us and we would make </h4>
+    <h4>of focusing his academic journey in a different environment or country to apply any school of their choice through us and we would make </h4>
     <br>
-   <h4>your dream of being in a different environment come through.Most of our students have studied in most of the reneowed univeristies across</h4>
+   <h4>your dream of being in a different environment come through.Most of our students have studied in most of the reneowed univeristies across the globe</h4>
     <h4>and they all were able to go there through our support,and how they obeyed to our rules and regulation,Kindly connect with us through our</h4>
-    <h4>various social handles or you can email us to get in touch with us and to know more about gateway educational consult.</h4>
+    <h4>various social media handles or you can email us to get in touch with us and to know more about gateway educational consult.</h4>
   </div>
   <!----------footer------>
 

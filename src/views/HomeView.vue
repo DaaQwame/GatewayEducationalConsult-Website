@@ -265,7 +265,7 @@ p{
     flex-direction: column;
   }
   .ac{
-    width: 100%;
+    width: 80%;
   }
   .mama, video{
     width: 100%;

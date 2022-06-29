@@ -61,7 +61,8 @@
   background-size: cover;
   background-position: center;
   margin-top: 70px;
-  position: relative
+  position: relative;
+  margin-top: 21px;
 }
 .hip{
   height: 30vh;

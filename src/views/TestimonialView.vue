@@ -42,6 +42,34 @@
         </div>
     </div>
 </div>
+<div class="ram">
+        <div class="code">
+         <p class="papa"><i class="fas fa-quote-left quote"></i>I had a very encouraging, supportive and helpful experience with you and
+         your organisation. Right from making
+         application uptill visa approval, you and your organisation was very helpful and easily approachable.
+         Even though I was applying for a very specialised branch of medicine, I didn't feel lost or not guided. This is the sole
+         reason I have even recommended you to my friends and hope that you continue this commendable service of yours.
+         </p>
+        <h4>Beatrice Ankomah</h4>
+        </div>
+        <div class="code">
+        <p class="papa"><i class="fas fa-quote-left quote"></i>I am glad to have had the opportunity to meet the full team of Gec!
+         They are truly great, and do a
+         great job in mentoring students to study abroad. They have informed me everything before hand, and made
+         sure everything was done at the right time. My visa process would not have been so smooth if I didn't go to
+         Gec. I am very happy with the quality of assistance given by them. I highly recommend Gec
+          to students, who are planning to study abroad.
+         </p>
+        <h4>Linda Hamilton</h4>
+        </div>
+        <div class="code">
+        <p class="papa"><i class="fas fa-quote-left quote"></i>I would like to take a moment appreciate your efforts in
+         helping me in my dream of studying abroad. You and your team had done a great job all through the journey. Right
+          from the offer till getting the visa done you have helped and guided me. I would also want thank you for the
+           services. All the best. </p>
+        <h4>Lucy Linneson</h4>
+        </div>
+    </div>
 <div class="with">
     <div class="room">
       <h2 class="pen">Email us to get our best counselling to study abroad</h2>

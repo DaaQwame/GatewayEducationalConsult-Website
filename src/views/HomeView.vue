@@ -140,8 +140,8 @@
          <li><router-link class="you" to="/Contact">Contact</router-link></li>
        </ul>
        <ul class="flex">
-         <router-link class="you" to="/"><li><i class="fab fa-facebook"></i></li></router-link>
-        <router-link class="you" to="/"><li><i class="fab fa-twitter"></i></li></router-link>
+         <a class="you" to="/www.facebook.com"><li><i class="fab fa-facebook"></i></li></a>
+        <router-link class="you" to="/twitter.com"><li><i class="fab fa-twitter"></i></li></router-link>
         <router-link class="you" to="/"><li><i class="fab fa-instagram"></i></li></router-link>
        <router-link class="you" to="/"><li><i class="fab fa-youtube"></i></li></router-link>
        </ul>
@@ -164,7 +164,7 @@
 
 .ac{
   width: 60%;
-  border-radius: 30px;
+  border-radius: 5px;
   border: 3px solid brown;
 }
 ul{

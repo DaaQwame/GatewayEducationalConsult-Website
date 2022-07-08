@@ -41,12 +41,12 @@
                 </div>
             </div>
             <div class="contact-col">
-                <form action="post">
-                    <input type="text" id="name" placeholder="Enter your full name" required>
-                    <input type="email" id="email" placeholder="Enter your email address" required>
-                    <input type="text" id="subject" placeholder="Enter your subject" required>
-                    <textarea rows="8" id="message" placeholder="Type your message here" required></textarea>
-                    <button type="submit" id="submit" class="hero">Send</button>
+                <form action="https://formspree.io/f/xeqnbznb" method="POST">
+                    <input type="text" id="name" name="name" placeholder="Enter your full name" required>
+                    <input type="email" id="email" name="email" placeholder="Enter your email address" required>
+                    <input type="text" id="course" name="course" placeholder="Enter your course" required>
+                    <textarea rows="8" id="message" name="message" placeholder="Type your message here" required></textarea>
+                    <button type="submit" id="name" class="hero">Send</button>
                 </form>
             </div>
         </div>

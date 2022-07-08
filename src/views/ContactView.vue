@@ -41,7 +41,7 @@
                 </div>
             </div>
             <div class="contact-col">
-                <form action="https://formspree.io/f/xeqnbznb" method="POST">
+                <form action= "https://formspree.io/f/xqknvlow" method="POST">
                     <input type="text" id="name" name="name" placeholder="Enter your full name" required>
                     <input type="email" id="email" name="email" placeholder="Enter your email address" required>
                     <input type="text" id="course" name="course" placeholder="Enter your course" required>

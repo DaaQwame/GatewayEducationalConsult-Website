@@ -297,10 +297,10 @@ p{
       background-image: url("../assets/about.jpg");
   }
   80%{
-    background-image: url("../assets/tt2.jpg");
+    background-image: url("../assets/tt.jpg");
   }
 }
 .sod {
-  animation: slide 5s;
+  animation: slide 15s;
 }
 </style>

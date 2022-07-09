@@ -284,15 +284,23 @@ p{
   min-height: 90vh;
   width: 100%;
   margin-top: -8px;
-  background: url("../assets/home.jpg");
   background-size: cover;
   background-position: center;
-  position: rel6ative;
+  background-repeat: no-repeat;
+  animation: slide 40s ease-in-out infinite;
 }
-
+@keyframes slide {
+  0%,100%{
+      background-image: url("../assets/home.jpg");
+  }
+  40%{
+      background-image: url("../assets/about.jpg");
+  }
+  80%{
+    background-image: url("../assets/tt2.jpg");
+  }
+}
 .sod {
-  background: #000;
-  height: 90vh;
-  opacity: 0.6;
+  animation: slide 5s;
 }
 </style>

@@ -1,11 +1,20 @@
 <template>
 <header class="head">
   <div class="sod">
+    <div class="gee">
+    <img class="play"  src="../assets/homeb.jpg">
+    </div>
+    <div class="gee">
+    <img class="play" src="../assets/gec13.jpeg">
+    </div>
+    <div class="gee">
+      <img class="play" src="../assets/tt.jpg">
+    </div>
   </div>
 </header>
 <section class="content">
   <h3>WHAT WE DO</h3>
-  <p>Gateway educational consult popularly known as gec has contribute alot to students who wants to study abroad.</p>
+  <p class="blay">Gateway educational consult popularly known as gec has contribute alot to students who wants to study abroad.</p>
   <div class="row">
     <div class="content-col">
       <h3>Our Mission</h3>
@@ -152,8 +161,101 @@
 <script>
 
 </script>
-
 <style>
+.head{
+  height: auto;
+  overflow: hidden;
+}
+.head .sod div{
+  float: left;
+  width: 20%;
+}
+.gee{
+  height: 70vh;
+}
+.head .sod .play{
+width: 100%;
+height: auto;
+float: left;
+}
+.head .sod{
+  position: relative;
+  width:500%;
+  margin: 0px;
+  left: 0;
+  animation: 40s ravi infinite;
+}
+@keyframes ravi{
+  0%{
+    left: 0%;
+  }
+  5%{
+    left: -100%;
+  }
+  10%{
+    left: -100%;
+  }
+  17%{
+    left: -100%;
+  }
+  20%{
+    left: -100%;
+  }
+  24%{
+    left: -100%;
+  }
+ 27%{
+  left: -100%;
+ }
+ 30%{
+  left: -100%;
+ }
+ 33%{
+  left: -200%;
+ }
+ 36%{
+  left: -200%;
+ }
+ 40%{
+  left: -200%;
+ }
+ 43%{
+  left: -200%;
+ }
+ 46%{
+  left: -200%;
+ }
+49%{
+  left: -200%;
+}
+55%{
+  left: -100%;
+}
+58%{
+  left: -100%;
+}
+63%{
+  left: -100%;
+}
+66%{
+  left: -100%;
+}
+69%{
+  left: -100%;
+}
+76%{
+  left: -100%;
+}
+80%{
+  left: 0%;
+}
+82%{
+  left: 0%;
+}
+83%{
+  left: 0%;
+}
+}
 .mama{
   padding-top: 60px;
 }
@@ -267,6 +369,9 @@ p{
   .ac{
     width: 80%;
   }
+  .head{
+    height: 40vh;
+  }
   .mama, video{
     width: 100%;
   }
@@ -279,28 +384,5 @@ p{
    .flex{
     padding-right: 8%;
   }
-}
-.head{
-  min-height: 90vh;
-  width: 100%;
-  margin-top: -8px;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  animation: slide 40s ease-in-out infinite;
-}
-@keyframes slide {
-  0%,100%{
-      background-image: url("../assets/home.jpg");
-  }
-  40%{
-      background-image: url("../assets/about.jpg");
-  }
-  80%{
-    background-image: url("../assets/tt.jpg");
-  }
-}
-.sod {
-  animation: slide 15s;
 }
 </style>

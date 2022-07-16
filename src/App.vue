@@ -58,7 +58,7 @@ export default {
   background-color: rgb(58, 58, 148);
 }
 .yolo{
-  background-color: #42b983;
+  background-color: #fff;
 }
  .pee{
     background-color: orange;

@@ -43,7 +43,7 @@ export default {
   color: #2c3e50;
 }
 .malt{
-  transform: translate(2%,-50px);
+  transform: translate(6%,-50px);
   font-weight: bolder;
   font-size: 18px;
   color:rgb(58, 58, 148) ;
